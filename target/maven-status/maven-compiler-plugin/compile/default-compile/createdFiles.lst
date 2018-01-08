@@ -1,0 +1,5 @@
+com\bean\BaseObject.class
+com\bean\User.class
+com\main\Application.class
+com\controller\BaseController.class
+com\bean\UserRepository.class
