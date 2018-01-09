@@ -14,7 +14,7 @@ public class Application {
 
 	
 	/**
-	 * Starter project of spring boot+jpa+dbcp2+mysql+slg4j+spring junit
+	 * Starter project of spring boot+jpa+hibernate+dbcp2+mysql+slg4j+log4j2+spring junit
 	 * Sweta Pawar
 	 * @param args
 	 */
